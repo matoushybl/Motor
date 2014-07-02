@@ -5,8 +5,8 @@ A simple Arduino library for controlling two DC motors using L293D or L298
 
 Sample
 ======
-```
 
+```C++
 #include <Motor.h>
 Motor motors(13,12,22,24,23,25);
 void setup(){
@@ -18,7 +18,6 @@ void loop(){
   motors.right();
   delay(1000); 
 }
-
 ```
 
 License
