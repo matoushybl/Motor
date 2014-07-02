@@ -1,0 +1,17 @@
+Motor	KEYWORD1
+left	KEYWORD2
+leftStop	KEYWORD2
+leftReverse	KEYWORD2
+right	KEYWORD2
+rightStop	KEYWORD2
+rightReverse	KEYWORD2
+forward	KEYWORD2
+backward	KEYWORD2
+setLeftSpeed	 KEYWORD2
+setRightSpeed	 KEYWORD2
+setGlobalSpeed	 KEYWORD2
+rotateLeft	 KEYWORD2
+rotateRight	 KEYWORD2
+stop	 KEYWORD2
+STOP	LITERAL1	Constants
+NONSTOP	LITERAL1	Constants
